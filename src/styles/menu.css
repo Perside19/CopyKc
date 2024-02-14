@@ -1,0 +1,19 @@
+.kc-menu{
+     box-shadow:  4px 1px 4px rgb(0 0 0 / 10%);
+     padding: 20px 25px;
+}
+.kc-menu-button{
+     margin : 0;
+     padding: 0;
+     border: 0 solid;
+     width: 24px;
+     height: 24px;
+     background-color: inherit;
+}
+.kc-footer{
+     margin-top: 112px;
+}
+.kc-footer-you{
+     background-color: rgb(247 247 247);
+     padding: 96px;
+} 

@@ -1,0 +1,52 @@
+.kc-acceuil{
+     padding: 0 128px;
+     margin-top: 140px;
+}
+.kc-acceuil-a{
+     padding-top: 48px;
+}
+.kc-acceuil-p{
+     margin: 32px 32px 32px 0;
+}
+.kc-acceuil-button{
+     border: 0 solid;
+     box-shadow: 0px 10px 20px #7682B72E;
+     background: none;  
+     width: 3rem ;
+     margin: 0 8px;
+}
+.kc-acceuil-button p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.kc-acceuil-direction{
+     margin-top: -30px;
+     margin-bottom: 10px;
+}
+.kc-acceuil-pres{
+     padding: 32px;
+     --tw-bg-opacity: 1;
+    background-color: rgb(247 247 247/var(--tw-bg-opacity));
+}
+.kc-avantages-p, h3{
+     line-height: 1.5rem;
+     font-family: Poppins,sans-serif;
+}
+h3{
+     font-size: 1.25rem;
+     font-weight: 900;
+}
+.kc-avantages-p{
+     font-weight: 500;
+     font-size: 1.125rem;
+}
+.kc-avantages-img{
+     width: 84px;
+     height: 84px;
+}
+.kc-avantages-hr{
+     background-color: rgb(112 112 112/var(--tw-bg-opacity));
+     flex-grow: 1;
+     height: 1px;
+     width: 100px;
+}

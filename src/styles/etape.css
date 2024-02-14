@@ -1,0 +1,67 @@
+.kc-etape{
+     padding: 0 100px;
+     overflow-x: auto;
+     column-gap: 9rem ;
+}
+.kc-etape-box{
+     margin-top: 112px;
+     padding: 0 128px;
+}
+.kc-experience-box{
+     margin-top: 112px;
+}
+.kc-experience-parent{
+     padding: 64px 32px 32px 32px;
+     overflow-x: auto;
+}
+.kc-etape-box h1 , .kc-experience-box h1{
+     margin-bottom: 0;
+}
+.kc-etape-content{
+    padding-top: 40px;
+    width: 100%;
+}
+.row{
+    flex-wrap: inherit;
+}
+h2{
+     color: #00ccad;
+     font-size: 1.875rem;
+     line-height: 2.25rem;
+     letter-spacing: -.025em;
+     font-weight: 400;
+}
+.kc-etape-h{
+     margin-top: 16px;
+     margin-bottom: 0;
+}
+.kc-etape-p{
+     margin-top: 16px;
+     font-size: 1.125rem;
+     font-weight: 400;
+     font-family: Poppins,sans-serif;
+}
+.scrollbar{
+     scrollbar-color: #00ccad #dde3e9;
+     scrollbar-width: thin;
+}
+.kc-etape-text{
+     margin-left: 48px;
+     margin-top: 16px;
+}
+.kc-experience-img{
+     height: 84px;
+     width: 84px;
+}
+.kc-experience{
+     box-shadow: 0rem 1.25rem 1.25rem #7682B72E;
+     border-radius: 0.3125rem;
+     padding: 32px;
+     width: 19.75rem;
+     background-color: white;
+     align-items: flex-start;
+     margin-right: 32px;
+}
+.kc-experience-h{
+     padding: 0 96px;
+}
